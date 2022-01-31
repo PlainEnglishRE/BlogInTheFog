@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "title": "Blog in Fhe Fog",
+  "titleTemplate": "UpSkilling for Added Billing",
+  "welcomeText": "# Daniel\n\nRenovating my skill set. Building a space for coding. Constructing a liberated life.\n\nWalk with me.",
+  "logo": "/images/uploads/06d6158e-b4cb-4de5-be49-9fc6ad2f8ae4.jpeg",
+  "icon": "/images/uploads/d37453a4-6ec4-4949-a94c-04c95272f92f.jpeg",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "plainenglish, daniel, Daniel, coding, blog, python, rust, middle-aged, skillset, new skills, fog",
   "seoMetaImage": ""
 }
